@@ -6,7 +6,3 @@
 2. 网页端Google Earth Engine的JavaScrip基本代码识别与编写能力
 3. 使用Google Earth Engine的API接入并使用Python运行GEE云计算的能力
 ---
-This series of notebooks is designed to help you master basic scientific research skills in remote sensing, geospatial information and other majors, including but not limited to:
-1. Basic Python code recognition and writing capabilities in the field of remote sensing
-2. Basic JavaScript code recognition and writing capabilities for Google Earth Engine on the web
-3. Access Google Earth Engine API and use Python to run GEE cloud computing capabilities
